@@ -1,3 +1,3 @@
-I solve this problem by myself.
+I solve HackerRank python problem by myself.
 <br>
 Nahin Moonkar Turza
